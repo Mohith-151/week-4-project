@@ -112,7 +112,3 @@ All dependencies are listed in `requirements.txt`. Key libraries used:
 - `jupyter` — Interactive notebook environment
 
 ---
-
-## Author
-
-> Project completed as part of **Week 4** of the data analysis coursework.
